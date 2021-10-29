@@ -1,5 +1,5 @@
 {
-  "name": "RTAP Server",
+  "name": "ratp-server",
   "version": "1.0.0",
   "description": "RTAP Server",
   "bin": "bin/createNodejsApp.js",
@@ -63,6 +63,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.7.7",
     "morgan": "^1.9.1",
+    "mysql2": "^2.3.2",
     "nodemailer": "^6.3.1",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
